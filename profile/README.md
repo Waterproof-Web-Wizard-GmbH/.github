@@ -1,6 +1,6 @@
 ## Waterproof Web Wizard GmbH
 
-We build and maintain websites on Neos CMS and TYPO3 for companies across Germany. Most of our work happens inside client projects. The packages and tools below came out of that work, and we publish them because others solve the same problems.
+We build and maintain websites on Neos CMS, TYPO3 and WordPress for companies across Germany. Most of our work happens inside client projects. The packages and tools below came out of that work, and we publish them because others solve the same problems.
 
 ### Neos CMS packages
 
@@ -10,6 +10,12 @@ We build and maintain websites on Neos CMS and TYPO3 for companies across German
 | [neos-team](https://github.com/Waterproof-Web-Wizard-GmbH/neos-team) | Team and people records maintained in one place, with optional detail pages |
 
 Both install through Composer: `composer require waterproof/neos-news` and `composer require waterproof/neos-team`.
+
+### YOURLS plugins
+
+| Plugin | What it does |
+|---|---|
+| [yourls-qr-code-designer](https://github.com/Waterproof-Web-Wizard-GmbH/yourls-qr-code-designer) | Styled, print-ready QR codes for every short URL: colours, gradients, shapes, logo in the safe area, print check and built-in scan test |
 
 ### Tools we use every day
 
